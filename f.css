@@ -1,6 +1,6 @@
 
 h1{color: brown;}
-h1:hover{color: burlywood;}
+
 h2{color: blueviolet;}
 h2:hover{color: blue;}
 h4{color: red;}
@@ -22,3 +22,37 @@ p:hover{color: cadetblue;}
 h4:hover{color: black;}
 .button{color: #222;}
 .button:hover{color: brown;}
+.cute{
+    position: absolute;
+    z-index: 10;
+    top: 30%;
+    left: 60%;
+    background-color: black;
+    color: yellow;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.cut{
+    position: absolute;
+    z-index: 10;
+    top: 330%;
+    left: 36%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.cu{
+    position: absolute;
+    z-index: 10;
+    top: 430%;
+    left: 36%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.c{
+    position: absolute;
+    z-index: 10;
+    top: 530%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
